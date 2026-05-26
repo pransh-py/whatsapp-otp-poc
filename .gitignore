@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.log
+
+# Environment files
+.env
+.mongo-data/
+
+# Flutter/build artifacts
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Node/WhatsApp sender
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
