@@ -2,13 +2,6 @@
 
 Separate proof-of-concept for OTP login using Flutter, FastAPI, MongoDB, and a swappable OTP delivery layer.
 
-This POC exists because the employer asked whether WhatsApp OTP can be sent without Meta APIs by using WhatsApp Web/app automation. The answer being demonstrated is technical feasibility only. This is not a production recommendation.
-
-## Important Risk Statement
-
-Unofficial WhatsApp Web/app automation is not production-safe. It can break when WhatsApp changes its web/app behavior, can violate WhatsApp terms, and can get sender accounts restricted, blocked, or banned.
-
-For production, use the official WhatsApp Business API/BSP route or an approved SMS route with required compliance.
 
 ## Current Status
 
